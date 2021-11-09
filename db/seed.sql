@@ -22,4 +22,4 @@ VALUES
 ("Amar", "Algu", 1),
 ("Brian", "Gearty", 2),
 ("George", "Clooney", 3),
-("Amal", "Clooney", 4);
+("Amal", "Clooney", 4)
