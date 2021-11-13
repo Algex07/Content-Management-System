@@ -7,7 +7,9 @@ class DB {
 
     getAllEmployees() {
         return this.connection.promise().query(
-            "SELECT * FROM employee"
+           "SELECT * FROM employee "
+          
+        
         )
     }
 
